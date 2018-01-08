@@ -1,1 +1,1 @@
-# elm-denver-fp
+# Deck for Elm talk at Denver FP Meetup
