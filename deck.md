@@ -1,18 +1,18 @@
 build-lists: true
 
-# Insert Title
+# Elm: The Gateway Drug
 
-![inline center](https://pbs.twimg.com/media/DOILSJSXkAIujSw.jpg)
+![inline center](http://archive.theweedblog.com/wp-content/uploads/marijuana-gateway-drug.jpg)
 
 ---
 
-# Title's are hard! Elm & Haskell..
+# Titles are hard! Elm & Haskell..
 
-- "Brothers From Another Mother"
+- "Brothers from Another Mother"
 - "Better than React"
-- "We're All in The Same Gang"
+- "We're All in the Same Gang"
 - "Friendly Fire"
-- "Influenced by ML"
+- "ML All the Way Down"
 
 ^ Notes
 
@@ -25,8 +25,6 @@ build-lists: true
 ^ Notes
 
 ---
-
-# No Go
 
 ![inline center](https://i.pinimg.com/736x/12/5c/e0/125ce0baff3271761ca61843eccf7985.jpg)
 
@@ -66,9 +64,9 @@ build-lists: true
 
 ---
 
-# Sorry Elm is not haskell / ats / idris
+# Elm is not haskell / ats / idris
 
-![inline center](https://raw.githubusercontent.com/seanhelvey/elm-denver-fp/master/img/LochNessaFinal.png)
+![inline center](https://pbs.twimg.com/media/DOILSJSXkAIujSw.jpg)
 
 ^ Notes
 
@@ -78,24 +76,23 @@ build-lists: true
 
 - Immutability
 - No side-effects
-- No run-time errors
 
 ^ Notes
 
 ---
 
-# These are debatable, but still, come on..
+# These are debatable, but come on..
 
 - Functional programming
-- Static typing
+- Static typing (no runtime errors!)
 
 ^ Notes
 
 ---
 
-# Who are we targeting?
+# Who is our target audience?
 
-![inline center](https://raw.githubusercontent.com/seanhelvey/elm-denver-fp/master/img/target.png)
+![inline center](https://media.makeameme.org/created/javascript-javascript-everywhere.jpg)
 
 ^ Notes
 
@@ -104,33 +101,35 @@ build-lists: true
 # Who else?
 
 - Also Ruby, Python, Java, etc. Even Go!
-- Would you rather someone use React, Vue, or Elm?
+- Would you rather someone use Angular, React, Vue, or Elm?
 - Using Elm leads people down the path of PureScript, Reason, Haskell..
 
 ^ Notes
 
 ---
 
-# It isn't that we don't care about Haskell
+# Elm isn't necessarily the end all
 
 - It is about potential.
-- Let's teach people how to be better programmers.
-- Elm can help convert mainstream developers.
+- Elm can help people become better programmers.
+- We can convert mainstream developers.
 
 ^ Notes
 
 ---
 
-# It isn't that we don't care about Haskell
+![inline center](https://i.ytimg.com/vi/oYk8CKH7OhE/maxresdefault.jpg)
 
-- It is about potential.
-- Let's teach people how to be better programmers.
-- Elm can help convert mainstream developers.
+^ Notes
+
+---
+
+# Your first Elm is free
+
+![inline center](https://memegenerator.net/img/instances/500x/81148003/elm-is-a-hell-of-a-drug.jpg)
 
 ^ Notes
 
 ---
 
 # Thank you!
-
-![inline center](http://is2.mzstatic.com/image/thumb/Video6/v4/61/16/ce/6116cec2-d2e8-de26-f80d-38a1685d04b8/source/1200x630bb.jpg)
