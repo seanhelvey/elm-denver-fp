@@ -2,7 +2,7 @@ build-lists: true
 
 # Elm: The Gateway Drug
 
-![inline center](http://archive.theweedblog.com/wp-content/uploads/marijuana-gateway-drug.jpg)
+![inline center](https://raw.githubusercontent.com/seanhelvey/elm-denver-fp/master/img/elm-gateway-drug.jpg)
 
 ---
 
