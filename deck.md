@@ -2,7 +2,7 @@ build-lists: true
 
 # Elm: The Gateway Drug
 
-![inline center](https://raw.githubusercontent.com/seanhelvey/elm-denver-fp/master/img/elm-gateway-drug.png)
+![inline center](https://raw.githubusercontent.com/seanhelvey/elm-denver-fp/master/img/gateway.png)
 
 ---
 
